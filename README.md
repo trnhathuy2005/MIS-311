@@ -1,1 +1,1 @@
-# MIS-311-Business-Analytics
+# MIS 311
